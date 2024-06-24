@@ -1,0 +1,14 @@
+// https://developer.mozilla.org
+
+// comnentario 1  linea
+
+/* esto
+es un comentario
+de varias 
+lineas 
+*/
+var varibale= // texto 1
+var varible = // texto 2
+
+
+
