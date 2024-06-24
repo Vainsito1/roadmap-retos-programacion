@@ -1,0 +1,24 @@
+// sitio web oficial https://developer.mozilla.org
+
+// comentario de una sola linea
+/* 
+comentarios
+de multiples lineas
+*/
+
+var variable = numero uno
+let constante = numero dos
+var numero =1
+var numero =2
+var float=1.3;
+let boleano = true
+let boleano = false 
+let datonull = null
+var datonoundefined = undefined  
+let BigInt = 25n
+var symbol =Symbol(D)
+
+Console.log("hola javascript")
+
+
+
